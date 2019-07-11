@@ -1,0 +1,4 @@
+Name = 'Marius'
+Age  = '55'
+
+print ('My name is ' + Name + ' and my age is ' + Age)
